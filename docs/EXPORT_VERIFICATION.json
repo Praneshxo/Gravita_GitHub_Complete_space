@@ -1,0 +1,15 @@
+{
+  "typecheck": "passed",
+  "production_build": "passed",
+  "pages": 67,
+  "articles": 50,
+  "internal_links": "passed",
+  "asset_references": "passed",
+  "structured_data_json": "passed",
+  "unique_page_titles": "passed",
+  "one_h1_per_page": "passed",
+  "image_alt_text": "passed",
+  "canonical_tags": "passed",
+  "original_pdf_sha256": "passed",
+  "zip_crc": "verified after packaging"
+}

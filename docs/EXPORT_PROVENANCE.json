@@ -1,0 +1,17 @@
+{
+  "site_url": "https://gravita-ground-engineering.aristoverse.chatgpt.site",
+  "original_source_commit": "ac0bc908402d048d872b2ad6c5447885ffd00716",
+  "original_tracked_files": 166,
+  "pdf_sha256": "f77d3b602823b20c3997563572941faeffcb3697f19d9b49a6ba110d0cd1c16a",
+  "export_changes": [
+    "Configurable SITE_URL",
+    "Portable PDF checksum validation",
+    "Python dependency file",
+    "Local preview command",
+    "GitHub CI and setup README"
+  ],
+  "omitted": [
+    "Git internal database and credentials",
+    "Reinstallable node_modules and caches"
+  ]
+}

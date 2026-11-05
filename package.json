@@ -1,0 +1,23 @@
+{
+  "name": "gravita-ground-engineering",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "python3 build.py && vite build && node scripts/integrate.mjs",
+    "typecheck": "tsc --noEmit",
+    "check": "python3 scripts/check.py",
+    "preview": "python3 -m http.server 8080 --directory dist"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0"
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gravita-ground-engineering.aristoverse.chatgpt.site/sitemap.xml
